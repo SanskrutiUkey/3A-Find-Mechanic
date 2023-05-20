@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "663870568867",
+    "project_id": "findmechanic-f2c40",
+    "storage_bucket": "findmechanic-f2c40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663870568867:android:b86e05e202b8f906570216",
+        "android_client_info": {
+          "package_name": "com.example.findmech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663870568867-74abna8eebcv299bj42pkfmf78nl66j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdbJg3sHhMcQZ7gri5gWLjrAvBRoYnfJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663870568867-74abna8eebcv299bj42pkfmf78nl66j4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
